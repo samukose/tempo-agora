@@ -34,4 +34,4 @@ Certifique-se de ter o Node.js instalado em seu computador.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+   git clone [https://github.com/samukose/tempo-agora.git](https://github.com/samukose/tempo-agora.git)
